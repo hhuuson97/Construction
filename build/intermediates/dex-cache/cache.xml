@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\Desktop\work\Construction\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e7da71f8e8dba7205836f0cb3b8c6be8e8a9fe7">
+        <dex dex="C:\Users\ACER\Desktop\work\Construction\android\build\intermediates\pre-dexed\debug\core-1.0_9e6702701cf4de7ae39e421da12a10ea5b1bbbd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Users\ACER\Desktop\work\Construction\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.6_fdf38cf0268d10a74d51ede45ef9b8caf2bc2aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.6\ea1fd4884be631d9b7cd0f496b1ab39e31eb434b\gdx-controllers-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea1fd4884be631d9b7cd0f496b1ab39e31eb434b">
+        <dex dex="C:\Users\ACER\Desktop\work\Construction\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.9.6_bfb1d71e132c3c048943b96e3f5a7fed6b3efa7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\ACER\Desktop\work\Construction\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_e8c7dc6a9c1616dba931ae0ab5f7d37ad8db0957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.9.6\adb89baaccb577c5ed558c3c1f94253e0f1fd2cf\gdx-controllers-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="adb89baaccb577c5ed558c3c1f94253e0f1fd2cf">
+        <dex dex="C:\Users\ACER\Desktop\work\Construction\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.9.6_3a478a89a37cfe1954cdf8393564e08410e3f25c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-ai\1.8.0\ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5\gdx-ai-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="C:\Users\ACER\Desktop\work\Construction\android\build\intermediates\pre-dexed\debug\gdx-ai-1.8.0_25d7ffbfb56d06e980b66756b572374402ca5bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-bullet\1.9.6\13a6f83e5ae513c469b9998ed09409ae3667fed\gdx-bullet-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="013a6f83e5ae513c469b9998ed09409ae3667fed">
+        <dex dex="C:\Users\ACER\Desktop\work\Construction\android\build\intermediates\pre-dexed\debug\gdx-bullet-1.9.6_68bfa832972eb39fc66d7a274eec4c956aad09d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ACER\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\ACER\Desktop\work\Construction\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_52da69bbaa3e8e7a55912606aa4f18aaffd50903.jar" />
+    </item>
+
+</items>

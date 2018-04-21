@@ -1,0 +1,4 @@
+#Wed Jul 12 21:13:25 ICT 2017
+base.0=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

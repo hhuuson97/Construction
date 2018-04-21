@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\ACER\Desktop\work\Construction\android\assets"><file name="badlogic.jpg" path="C:\Users\ACER\Desktop\work\Construction\android\assets\badlogic.jpg"/></source><source path="C:\Users\ACER\Desktop\work\Construction\android\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\ACER\Desktop\work\Construction\android\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,22 @@
+#Wed Jul 12 21:13:07 ICT 2017
+renamed.6=classes4.dex
+renamed.5=classes5.dex
+renamed.4=classes3.dex
+renamed.3=classes6.dex
+renamed.2=classes.dex
+renamed.1=classes7.dex
+renamed.0=classes2.dex
+base.6=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_fdf38cf0268d10a74d51ede45ef9b8caf2bc2aa8
+base.5=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-bullet-1.9.6_68bfa832972eb39fc66d7a274eec4c956aad09d4
+base.4=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_e8c7dc6a9c1616dba931ae0ab5f7d37ad8db0957
+base.3=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-controllers-1.9.6_bfb1d71e132c3c048943b96e3f5a7fed6b3efa7b
+base.2=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_52da69bbaa3e8e7a55912606aa4f18aaffd50903
+base.1=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-controllers-android-1.9.6_3a478a89a37cfe1954cdf8393564e08410e3f25c
+base.0=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-ai-1.8.0_25d7ffbfb56d06e980b66756b572374402ca5bfc
+file.6=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_fdf38cf0268d10a74d51ede45ef9b8caf2bc2aa8\\classes.dex
+file.5=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-bullet-1.9.6_68bfa832972eb39fc66d7a274eec4c956aad09d4\\classes.dex
+file.4=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_e8c7dc6a9c1616dba931ae0ab5f7d37ad8db0957\\classes.dex
+file.3=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-controllers-1.9.6_bfb1d71e132c3c048943b96e3f5a7fed6b3efa7b\\classes.dex
+file.2=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_52da69bbaa3e8e7a55912606aa4f18aaffd50903\\classes.dex
+file.1=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-controllers-android-1.9.6_3a478a89a37cfe1954cdf8393564e08410e3f25c\\classes.dex
+file.0=C\:\\Users\\ACER\\Desktop\\work\\Construction\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-ai-1.8.0_25d7ffbfb56d06e980b66756b572374402ca5bfc\\classes.dex
